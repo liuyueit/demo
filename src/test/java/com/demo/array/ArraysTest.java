@@ -17,7 +17,7 @@ public class ArraysTest {
 	public void testArrays() {
 		Human[] humanArray = new Human[]{new Human("yang"), new Human("zhang")};
 		Human[] humanCopy = Arrays.copyOf(humanArray, humanArray.length); // 浅拷贝
-		humanArray[0].setName("wenhan");
+//		humanArray[0].setName("wenhan");
 		System.out.println(humanCopy[0]);
 	}
 }
