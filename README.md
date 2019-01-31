@@ -6,7 +6,8 @@
 - StringBuilder和StringBuffer的区别
 - 课后作业：学习Java核心卷的第三章，并在demo工程里面敲一些书上的代码，push到自己的github上面去，预习第四章
 ### 2019-01-31
-- spring
+- spring:IOC，解耦和AOP拦截方法，打日志
+- springboot：不是一个新的框架，简化了spring的配置，本质还是spring
 - threads
 - 采用微服实现的银行流水查询系统
 #### Java核心卷第四章
@@ -14,7 +15,7 @@
 - 如何写自己的类：Emmployee
 - 函数是值传递还是引用传递
 - 对象构造：成员变量的初始化
-杨的修改
+
 
 
 
